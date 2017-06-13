@@ -4,7 +4,7 @@ Automatic connection between a python script and one or more arduinos
 > To run the script, open bash console, go to the repository and type > Python root.py
 
 
-How to use ? 
+How to use it ? 
 
 Arduino code :
 - Take an arduino, send the programm placed in the folder arduinoProgram. 
